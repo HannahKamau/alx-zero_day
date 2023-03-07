@@ -1,2 +1,2 @@
 my second commit
-am dozing off
+git is fine
